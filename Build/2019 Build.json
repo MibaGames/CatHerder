@@ -1,0 +1,16 @@
+{
+"companyName": "Miba Games",
+"productName": "Cat Herder",
+"productVersion": "0.1",
+"dataUrl": "2019 Build.data.unityweb",
+"wasmCodeUrl": "2019 Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "2019 Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
